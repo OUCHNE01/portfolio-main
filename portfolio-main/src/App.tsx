@@ -278,7 +278,7 @@ const Footer = () => (
             </a>
           </div>
           <div>
-            <a href={`${import.meta.env.BASE_URL}assets/el_ghassib_ahmed_cv.pdf`} target="_blank" rel="noopener noreferrer" className="hover:text-[#EA5455] transition-colors duration-300 flex items-center gap-2">
+            <a href={`${import.meta.env.BASE_URL}assets/MonCV.pdf`} target="_blank" rel="noopener noreferrer" className="hover:text-[#EA5455] transition-colors duration-300 flex items-center gap-2">
               <FileText size={20} /> Resume
             </a>
           </div>
